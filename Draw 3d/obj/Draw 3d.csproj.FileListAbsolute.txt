@@ -1,0 +1,32 @@
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw3D.Form1.resources
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw_3d.Properties.Resources.resources
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.csproj.GenerateResource.Cache
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.exe
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.pdb
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.exe
+C:\Documents and Settings\yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.pdb
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\Draw 3d.exe
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\Draw 3d.pdb
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\bin\Debug\Draw 3d.exe
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\bin\Debug\Draw 3d.pdb
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\Draw3D.Form1.resources
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\Draw_3d.Properties.Resources.resources
+C:\Documents and Settings\Yb2itamarl\שולחן העבודה\Draw 3d\Draw 3d\Draw 3d\obj\Debug\Draw 3d.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.exe
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.pdb
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw3D.Form1.resources
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw_3d.Properties.Resources.resources
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.exe
+C:\Documents and Settings\user\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.pdb
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.exe
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.pdb
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw3D.Form1.resources
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw_3d.Properties.Resources.resources
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\obj\Debug\Draw 3d.csproj.GenerateResource.Cache
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.exe
+C:\Documents and Settings\Yb3meitarf\שולחן העבודה\Draw 3d\Draw 3d\bin\Debug\Draw 3d.pdb

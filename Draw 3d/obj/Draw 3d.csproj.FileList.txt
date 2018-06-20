@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Draw3D.Form1.resources
+obj\Debug\Draw_3d.Properties.Resources.resources
+obj\Debug\Draw 3d.csproj.GenerateResource.Cache
+obj\Debug\Draw 3d.exe
+obj\Debug\Draw 3d.pdb
+bin\Debug\Draw 3d.exe
+bin\Debug\Draw 3d.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Draw3D.Form1.resources
+obj\Release\Draw_3d.Properties.Resources.resources
+obj\Release\Draw 3d.csproj.GenerateResource.Cache
